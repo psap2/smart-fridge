@@ -1,0 +1,15 @@
+# Private planning notes, kept off the public repo
+docs/
+PROJECT_INSTRUCTIONS.md
+CLAUDE.md
+
+# Fridge photos stay on my machines
+data/
+
+# Secrets
+.env
+
+# macOS
+.DS_Store
+
+.venv/
